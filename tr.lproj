@@ -1,0 +1,107 @@
+/* No comment provided by engineer. */
+"\nIf you want to prevent original apps being replaced,\nIt is recommended to modify like this\n\nExampleApp2\nExampleApp2\ncom.example.exampleapp2\n\nWARNING:PLEASE MAKE SURE THE NAME\nIS NOT AS SAME AS THE SYSTEM APP NAMES"="\nOrijinal uygulamaların değiştirilmesini önlemek istiyorsanız, bu şekilde değişiklik yapılması önerilir:\n\nExampleApp2\nExampleApp2\ncom.example.exampleapp2\n\nUYARI: LÜTFEN ADIN SISTEM UYGULAMASI ADLARIYLA AYNI OLMADIĞINDAN EMIN OLUN";
+
+/* No comment provided by engineer. */
+"%@"="%@";
+
+/* No comment provided by engineer. */
+"%@.%@"="%@.%@";
+
+/* No comment provided by engineer. */
+"All packages in Package Folder have been removed"="Paket Klasöründeki tüm paketler kaldırıldı";
+
+/* No comment provided by engineer. */
+"App Bundle"="Uygulama Paketi";
+
+/* No comment provided by engineer. */
+"App Info"="Uygulama Bilgisi";
+
+/* No comment provided by engineer. */
+"App Name"="Uygulama Adı";
+
+/* No comment provided by engineer. */
+"App Package Name"="Uygulama Paketi Adı";
+
+/* No comment provided by engineer. */
+"Check issues on Github"="Github'daki Sorunları Kontrol Et";
+
+/* No comment provided by engineer. */
+"Clear All Packages"="Tüm Paketleri Temizle";
+
+/* No comment provided by engineer. */
+"CoreTrust exploit"="CoreTrust istismarı";
+
+/* No comment provided by engineer. */
+"Credits"="Katkıda Bulananlar";
+
+/* No comment provided by engineer. */
+"Custom Info"="Özel Bilgiler";
+
+/* No comment provided by engineer. */
+"Customize .deb file description\n( Leave blank to use default )"=".deb dosyası açıklamasını özelleştir\n(Varsayılanı kullanmak için boş bırakın)";
+
+/* No comment provided by engineer. */
+"Customize App Bundle"="Uygulama Paketini Özelleştir";
+
+/* No comment provided by engineer. */
+"Customize App Name"="Uygulama Adını Özelleştir";
+
+/* No comment provided by engineer. */
+"Customize App Package Name\n(The name of .app directory)"="Uygulama Paketi Adını Özelleştir\n(.app dizininin adı)";
+
+/* No comment provided by engineer. */
+"Description"="Açıklama";
+
+/* No comment provided by engineer. */
+"Document Folder Path\n\/var\/mobile\/Documents\/permasigneriOS\n\nPlease be patient during the sign process,\nespecially signing a complex app with\nlots of frameworks\n\nIf you're having problems, please check Github issues before asking\n\nThis is iOS ported of itsnebulalol's permasigner"="Belge Klasörü Yolu\n\/var\/mobile\/Documents\/permasigneriOS\n\nİmzalama sürecinde lütfen sabırlı olun,\nözellikle çok sayıda framework içeren\nkarmaşık bir uygulamayı imzalayın\n\nSorun yaşıyorsanız, lütfen sormadan önce gidip Github sorunlarını kontrol edin\n\nBu, uygulama itsnebulalol'un permasigner'ının iOS'e uyarlanmış halidir";
+
+/* No comment provided by engineer. */
+"Done"="Bitti";
+
+/* No comment provided by engineer. */
+"Help and code contribution"="Yardım ve kod katkısı";
+
+/* No comment provided by engineer. */
+"Importing iPA file"="iPA dosyası içe aktarılıyor";
+
+/* No comment provided by engineer. */
+"No .ipa file selected"=".ipa dosyası seçilmedi";
+
+/* No comment provided by engineer. */
+"Oh no"="Oh hayır";
+
+/* No comment provided by engineer. */
+"OK"="Tamam";
+
+/* No comment provided by engineer. */
+"Okay"="Tamam";
+
+/* No comment provided by engineer. */
+"Open Package Folder in Filza"="Paket Klasörünü Filza'da Aç";
+
+/* No comment provided by engineer. */
+"Original Permasigner Developer"="Orijinal Permasigner Geliştiricisi";
+
+/* No comment provided by engineer. */
+"Permasigner-iOS Developer"="Permasigner-iOS Geliştiricisi";
+
+/* No comment provided by engineer. */
+"Select File"="Dosya Seç";
+
+/* No comment provided by engineer. */
+"Sign"="İmzala";
+
+/* No comment provided by engineer. */
+"Source Code"="Kaynak Kodu";
+
+/* No comment provided by engineer. */
+"version"="Sürüm";
+
+/* No comment provided by engineer. */
+"View on Github"="Github'da Göster";
+
+/* No comment provided by engineer. */
+"View the file now?"="View the file now?";
+
+/* No comment provided by engineer. */
+"You need Filza to view the file"="Dosyayı görüntülemek için Filza'ya ihtiyacınız var";
